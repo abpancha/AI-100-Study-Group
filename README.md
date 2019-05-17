@@ -1,1 +1,1 @@
-# AI-100-Study-Group
+# AI-100-Study-Group :)
