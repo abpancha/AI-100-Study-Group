@@ -1,0 +1,23 @@
+Analyze solution requirements (20-25%)
+•	Identify storage solutions
+o	identify the appropriate storage capacity, storage types and storage locations for a solution
+o	determine the storage technologies that the solution should use
+o	identify the appropriate storage architecture for the solution
+o	identify components and technologies required to connect data
+
+•	Recommend tools, technologies, and processes to meet process flow requirements
+o	select the processing architecture for a solution
+o	select the appropriate data processing technologies
+o	select the appropriate AI models and services
+o	identify components and technologies required to connect service endpoints
+o	identify automation requirements
+
+•	Map security requirements to tools, technologies, and processes
+o	determine processes and regulations needed to conform with data privacy, protection, and regulatory requirements
+o	determine which users and groups have access to information and interfaces
+o	identify appropriate tools for a solution
+o	identify auditing requirements
+
+•	Select software and services required to support the solution
+o	identify appropriate services/tools for the solution
+o	identify integration points with other Microsoft services
